@@ -64,5 +64,4 @@ Accuracy: 0.9340885684860968
 
 ## Authors
 - Jason Majoros
-# MLBMoneyline
 
