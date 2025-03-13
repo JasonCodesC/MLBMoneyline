@@ -15,21 +15,13 @@ Accuracy: 0.9340885684860968
            1       0.91      0.96      0.94       487
 
     accuracy                           0.93       971
-   macro avg       0.94      0.93      0.93       971
-weighted avg       0.94      0.93      0.93       971
-
-## Features
-- User-friendly web interface built with Flask and React.
-- Machine learning model trained on historical green card data.
-- GPT-o3-Mini API integration for explanation and improvement suggestions.
-- Data preprocessing and feature engineering for accurate predictions.
 
 
 ## Installation
 
-1. Clone the repository:
+1. Get the repository:
   ```sh
-  git clone https://github.com/sanyachawla26/datathon-applicationform
+  Contact me!
   ```
 
 
@@ -73,4 +65,4 @@ weighted avg       0.94      0.93      0.93       971
 ## Authors
 - Jason Majoros
 # MLBMoneyline
-# MLBMoneyline
+
